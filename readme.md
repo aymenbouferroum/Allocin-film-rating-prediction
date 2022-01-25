@@ -1,10 +1,10 @@
 # Allociné film rating prediction
 
 The objective of this challenge is to understand some of the problems of automatic natural language processing (NLP) through an automatic prediction task. This consists in processing texts corresponding to film reviews from the AlloCiné website, in order to automatically deduce the scores attributed to films by the authors of these reviews.
-## Contributeur
+## Contributors
 - Bouferroum Aymen Salah Eddine.
 - Kracheni Zakaria.
-## Encadrants 
+## Supervisors 
 - Vincent Labatut
 - Mickaël Rouvier
 
